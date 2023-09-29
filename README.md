@@ -53,4 +53,4 @@ Hi, I am Ram Ji a web developer, designer, and a programmer who crafts captivati
 <a href="http://www.github.com/Ramji-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramji-Dev&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ramji-Dev&label=Profile%20views&color=0891b2&style=flat" alt="Ramji-Dev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ramji-Dev&label=Profile%20views&color=171717&style=flat" alt="Ramji-Dev" /> </p>
