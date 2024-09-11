@@ -6,7 +6,7 @@
 
 Hi, I'm Ram Ji, a web developer and designer with expertise in HTML, CSS, JavaScript, and modern technologies like React JS, Tailwind CSS, Redux Toolkit, and React Router. I create captivating and interactive websites, blending style and functionality to deliver visually stunning and user-friendly web experiences. My goal is to bring ideas to life with clean, efficient code and a keen eye for aesthetics. I'm dedicated to crafting dynamic and engaging online presences.
 
-<img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="code&music❤️" width="50%" height="auto">
+<img align="right" src="https://res.cloudinary.com/dysp4uk7f/image/upload/v1726081901/c89amtotqd2wrf6yjsum.webp" alt="Ramji-Dev" width="50%" height="auto">
 
 - 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me **ramjirjr.09@gmail.com**
@@ -54,9 +54,7 @@ Hi, I'm Ram Ji, a web developer and designer with expertise in HTML, CSS, JavaSc
 <img src="https://code.visualstudio.com/assets/icons/file-icons/powershell.svg" alt="xd" width="40" height="40"/>
 </p>
 
-
 <a href="http://www.github.com/Ramji-Dev"><img src="https://github-readme-stats.vercel.app/api?username=Ramji-Dev&show_icons=true&hide=&count_private=true&title_color=adff2d&text_color=ffffff&icon_color=0891b2&bg_color=060F07&hide_border=true&show_icons=true" alt="Ramji-Dev's GitHub stats" /></a>
-
 <a href="http://www.github.com/Ramji-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramji-Dev&stroke=ffffff&background=060f07&ring=ffffff&fire=adff2d&currStreakNum=adff2d&currStreakLabel=adff2d&sideNums=adff2d&sideLabels=adff2d&dates=ffffff&hide_border=true" /></a>
 
 
