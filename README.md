@@ -3,14 +3,15 @@
 **`Digital Craftsman (Full Stack Developer)`**
 
 <i>Hi, I'm Ram Ji — a Full Stack Web Developer skilled in building scalable and dynamic web applications.
-I work with modern technologies including React JS, Tailwind CSS, Nest JS, MongoDB, PostgreSQL, TypeORM, Node JS, and Express JS.
+I work with modern technologies including React JS, Tailwind CSS, Nest JS, JavaScript, MongoDB, PostgreSQL, TypeORM, Node JS, Mongoose, and Express JS.
 
-With a strong foundation in HTML, CSS, and JavaScript, I craft responsive user interfaces and robust backend systems. I focus on writing clean, efficient code and delivering user-friendly, high-performance solutions.</i>
+ I craft responsive user interfaces and robust backend systems. I focus on writing clean, efficient code and delivering user-friendly, high-performance solutions.</i>
 
 <!-- <img align="right" src="https://res.cloudinary.com/dysp4uk7f/image/upload/v1726081901/c89amtotqd2wrf6yjsum.webp" alt="Ramji-Dev" width="50%" height="auto"> -->
 
-- ❤️‍🔥 Always learning...
-- 📫 Here you go - ***ramjirjr.09@gmail.com***
+- ❤️‍🔥 Addicted to learning new tech.
+- 🧠 Downloading knowledge like it’s a software update.
+<!-- - 📫 Here you go - ***ramjirjr.09@gmail.com*** -->
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
