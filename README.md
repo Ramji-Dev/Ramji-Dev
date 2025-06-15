@@ -41,7 +41,7 @@ With a strong foundation in HTML, CSS, and JavaScript, I craft responsive user i
 <img src="https://avatars.githubusercontent.com/u/11524380?s=280&v=4" alt="terminal" width="40" height="40"/>
 </p>
 
-<p align="center"><a href="http://www.github.com/Ramji-Dev"><img src="https://github-readme-stats.vercel.app/api?username=Ramji-Dev&show_icons=true&hide=&count_private=true&title_color=adff2d&text_color=ffffff&icon_color=0891b2&bg_color=060F07&hide_border=true&show_icons=true" alt="Ramji-Dev's GitHub stats" /></a></p>
+<!-- <p align="center"><a href="http://www.github.com/Ramji-Dev"><img src="https://github-readme-stats.vercel.app/api?username=Ramji-Dev&show_icons=true&hide=&count_private=true&title_color=adff2d&text_color=ffffff&icon_color=0891b2&bg_color=060F07&hide_border=true&show_icons=true" alt="Ramji-Dev's GitHub stats" /></a></p> -->
 <p align="center"><a href="http://www.github.com/Ramji-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramji-Dev&stroke=ffffff&background=060f07&ring=ffffff&fire=adff2d&currStreakNum=adff2d&currStreakLabel=adff2d&sideNums=adff2d&sideLabels=adff2d&dates=ffffff&hide_border=true" /></a></p>
 
 
