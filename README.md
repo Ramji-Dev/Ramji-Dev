@@ -23,9 +23,11 @@ I work with modern technologies including React JS, Tailwind CSS, Nest JS, JavaS
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/10566080?s=48&v=4" alt="socketio" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="mongodb" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/177543?s=280&v=4" alt="postgres" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<img src="https://zustand-demo.pmnd.rs/favicon.ico" alt="zustand" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
